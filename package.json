@@ -1,0 +1,15 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "Writing unit tests and the implementation code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": "https://github.com/cori-peck/webtesting-i-challenge.git",
+  "author": "cori-peck <cori.peck@ymail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
